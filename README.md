@@ -1,1 +1,2 @@
-# WHJ-PRO-25
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
